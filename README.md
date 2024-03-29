@@ -5,7 +5,7 @@ About Me
 
 
 
-- 🔭 I’m currently working remotely
+- 🔭 I’m currently working remote
 - 🌱 I’m currently learning and understanding the basics of GitHub
 - 👯 I’m looking to collaborate on Mathesar's beta launch happening soon 
 - 🤔 I’m looking for help with understanding coding in simple terms
